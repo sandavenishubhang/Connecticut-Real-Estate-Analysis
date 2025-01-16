@@ -42,8 +42,6 @@ This project delves into real estate trends in Connecticut from 2007 to 2021, ex
 ```plaintext
 Connecticut-Real-Estate-Analysis/
 ├── README.md                  # Project documentation
-├── data/
-│   ├── RealEstate_Sales.csv   # Dataset used in the project
 ├── analysis/
 │   ├── Connecticut_RealEstate_Analysis.ipynb  # Jupyter Notebook for analysis
 │   ├── data_cleaning_script.py  # Python script for data cleaning
@@ -52,8 +50,7 @@ Connecticut-Real-Estate-Analysis/
 │   ├── Comm_Viz_Project_2_Grp9_Dashboard.twbx  # Tableau workbook
 ├── reports/
 │   ├── Comm_Viz_Group9.pdf     # Final report
-├── LICENSE                     # License for the project
-
+```
 ## 📈 Tableau Dashboard
 
 The interactive Tableau dashboard enables users to explore:
@@ -82,15 +79,28 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+## 🤝 Acknowledgments
 
+Special thanks to the project collaborators:
+- **Shubhang Yadav Sandaveni**
+- **Sai Deepthi Gali**
+- **Xinyue Niu**
+
+For their dedication and contributions to the project.
 
 ---
 
 ## 🌐 Links
 
-
+- **Dashboard**: [View Live Dashboard](https://sites.google.com/view/group9-us-food-imports)
 - **Data Source**: [Real Estate Sales Dataset](https://catalog.data.gov/dataset/real-estate-sales-2001-2018)
 
+---
 
+## 📝 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Connecticut-Real-Estate-Analysis.git
 
 
