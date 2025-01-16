@@ -60,7 +60,7 @@ The interactive Tableau dashboard enables users to explore:
 - **Average Sale Values Across Property Types**: Insights into property-specific market trends.
 
 ### Dashboard Snapshot
-![Dashboard Snapshot](dashboard/Dashboard 1.png)
+![Dashboard Snapshot](dashboard/Dashboard%201.png)
 
 ---
 
