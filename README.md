@@ -60,7 +60,7 @@ The interactive Tableau dashboard enables users to explore:
 - **Average Sale Values Across Property Types**: Insights into property-specific market trends.
 
 ### Dashboard Snapshot
-![Dashboard Snapshot](dashboard/Dashboard_Snapshot.png)
+![Dashboard Snapshot](dashboard/Dashboard 1.png)
 
 ---
 
@@ -79,28 +79,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🤝 Acknowledgments
 
-Special thanks to the project collaborators:
-- **Shubhang Yadav Sandaveni**
-- **Sai Deepthi Gali**
-- **Xinyue Niu**
-
-For their dedication and contributions to the project.
-
----
 
 ## 🌐 Links
 
-- **Dashboard**: [View Live Dashboard](https://sites.google.com/view/group9-us-food-imports)
+- **Dashboard**: [View Live Dashboard](https://public.tableau.com/app/profile/shubhang.yadav.sandaveni/viz/ConnecticutResidentialRealEstateTrends/Dashboard1)
 - **Data Source**: [Real Estate Sales Dataset](https://catalog.data.gov/dataset/real-estate-sales-2001-2018)
 
----
 
-## 📝 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Connecticut-Real-Estate-Analysis.git
 
 
